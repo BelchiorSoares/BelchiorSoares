@@ -45,7 +45,7 @@ I'm a **Firmware & IoT Developer** passionate about embedded systems, automation
 ---
 
 <div align="center">
-💡 *Always learning, always building!*
+💡 Always learning, always building!
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
