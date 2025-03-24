@@ -34,10 +34,10 @@ I'm a **Firmware & IoT Developer** passionate about embedded systems, automation
 
 ### 📫 Let's Connect
 <div align="center">
-    <a href="https://www.linkedin.com/in/belchiorqs/">
+    <a href="https://www.linkedin.com/in/belchiorqs">
         <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn Profile" />
     </a>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <a href="[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/BelchiorSoares)">
         <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub Profile" />
     </a>
 </div>
