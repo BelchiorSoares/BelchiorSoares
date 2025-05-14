@@ -15,7 +15,7 @@ I'm a **Firmware & IoT Developer** passionate about embedded systems, automation
 ### 🚀 About Me
 
 🔧 Strong background in **C** for embedded systems and firmware development.<br>
-🌱 Learning **Python** & **JavaScript** for software applications.<br>
+🌱 Learning **Python** & **Dart** for software applications.<br>
 🎓 **Computer Science Student**, always looking to improve and build innovative projects.<br>
 🔗 Interested in IoT, automation, and hardware-software integration.
 
