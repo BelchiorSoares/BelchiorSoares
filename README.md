@@ -10,12 +10,12 @@
 
 ### Hi there! 👋
 
-I'm a **Firmware & IoT Developer** passionate about embedded systems, automation, and software development. Currently exploring **Python** and **Dart** to expand my skills.
+I'm a **Firmware & IoT Developer** passionate about embedded systems, automation,IA\ML and software development. Currently exploring **Python** to expand my skills.
 
 ### 🚀 About Me
 
 🔧 Strong background in **C** for embedded systems and firmware development.<br>
-🌱 Learning **Python** & **Dart** for software applications.<br>
+🌱 Learning **Python** for IA/ML and IoT.<br>
 🎓 **Computer Science Student**, always looking to improve and build innovative projects.<br>
 🔗 Interested in IoT, automation, and hardware-software integration.
 
