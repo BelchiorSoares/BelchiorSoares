@@ -27,11 +27,6 @@ I'm a **Firmware & IoT Developer** passionate about embedded systems, automation
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelchiorSoares&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=00000000" alt="Top Langs" />
 </div>
 
-### 📈 Visitor Counter
-<div align="center">
-    <img src="https://profile-counter.glitch.me/{BelchiorSoares}/count.svg" alt="Visitor Counter" />
-</div>
-
 ### 📫 Let's Connect
 <div align="center">
     <a href="https://www.linkedin.com/in/belchiorqs">
