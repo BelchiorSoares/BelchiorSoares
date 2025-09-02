@@ -29,7 +29,7 @@ I'm a **Firmware & IoT Developer** passionate about embedded systems, automation
 
 ### 📈 Visitor Counter
 <div align="center">
-    <img src="https://profile-counter.glitch.me/{BelchiorSoare}/count.svg" alt="Visitor Counter" />
+    <img src="https://profile-counter.glitch.me/{BelchiorSoares}/count.svg" alt="Visitor Counter" />
 </div>
 
 ### 📫 Let's Connect
