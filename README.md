@@ -10,7 +10,7 @@
 
 ### Hi there! 👋
 
-I'm a **Firmware & IoT Developer** passionate about embedded systems, automation,IA\ML and software development. Currently exploring **Python** to expand my skills.
+I'm a **Firmware & IoT Developer** passionate about embedded systems, automation, IA\ML and software development. Currently exploring **Python** to expand my skills.
 
 ### 🚀 About Me
 
